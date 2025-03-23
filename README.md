@@ -1,4 +1,4 @@
-# Travelon_Management
+# 🚀 Travelon_Management
 
 ## Project Overview
 
@@ -15,5 +15,18 @@ This project emphasizes data security, efficient performance, and a user-friendl
 | **Backend**    | Spring Boot, JWT, PostgreSQL             |
 | **Database**   | PostgreSQL                              |
 | **Tools**      | Postman, IntelliJ IDEA, VSCode          |
+
+## ✨ **Key Features**
+- 🔑 **JWT Authentication** — Secure user login and session management.  
+- 🏷️ **Route Search & Dynamic Pricing** — View available routes and ticket prices.  
+- 🏢 **Admin Panel** — Manage users, drivers, routes, and booking details.  
+- 🚌 **Driver Panel** — View assigned trips.  
+- 💾 **PostgreSQL Integration** — Efficient data storage and retrieval.
+
+## 📸 **Screenshots** 
+### 🏠 **Home Page:**  
+*(Insert Image)*  
+```markdown
+![Home Page](./assets/home.png)
 
 
