@@ -11,10 +11,10 @@ This project emphasizes data security, efficient performance, and a user-friendl
 ## 🛠️ **Tech Stack**
 | **Category**   | **Technologies**                       |
 |----------------|---------------------------------------|
-| **Frontend**   | React, JavaScript, HTML, CSS, Bootstrap 5 |
+| **Frontend**   | React, JavaScript, HTML5, CSS3, Bootstrap 5 |
 | **Backend**    | Spring Boot, JWT, PostgreSQL             |
 | **Database**   | PostgreSQL                              |
-| **Tools**      | Postman, IntelliJ IDEA, VSCode          |
+| **Tools**      | Postman, Spring Tool Suite , VSCode          |
 
 ## ✨ **Key Features**
 - 🔑 **JWT Authentication** — Secure user login and session management.  
@@ -26,6 +26,52 @@ This project emphasizes data security, efficient performance, and a user-friendl
 ## 📸 **Screenshots** 
 ### 🏠 **Home Page:**  
 
-(![mainPage](https://github.com/user-attachments/assets/c2145edc-6f98-40fb-ad16-3ed3eeddf706))
+![mainPage](https://github.com/user-attachments/assets/c2145edc-6f98-40fb-ad16-3ed3eeddf706)
+
+### 🏠 **Login Page:**
+
+![loginPage](https://github.com/user-attachments/assets/f20ea8bf-b55e-4f0e-8486-05146052ad47)
+
+
+📊 Core Functionalities:
+
+User Module:
+
+https://github.com/user-attachments/assets/063ce20e-263c-4395-9c66-6545a55cef36
+
+-Register and log in with JWT authentication.
+
+-Search available routes and view dynamic pricing.
+
+-Book tickets and check booking history.
+
+
+
+Driver Module:
+
+-View assigned trips and schedules.
+
+-Manage trip completion status.
+
+Admin Module:
+
+https://github.com/user-attachments/assets/43b5925a-44d3-49c5-88a8-acd628daf4fb
+
+-Add, update, and delete users, drivers, and routes.
+
+-Manage bookings and generate trip details.
+
+-Ensure data consistency and access control.
+
+
+📂 Project Status
+
+Status: 
+
+Completed : users and admin panel 
+Inprogress: driver panel , some part of admin panel
+
+
+Repository: Code not public. Available upon request.
 
 
