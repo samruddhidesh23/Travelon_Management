@@ -25,8 +25,7 @@ This project emphasizes data security, efficient performance, and a user-friendl
 
 ## 📸 **Screenshots** 
 ### 🏠 **Home Page:**  
-*(Insert Image)*  
-```markdown
-![Home Page](./assets/home.png)
+
+![Home Page](![mainPage](https://github.com/user-attachments/assets/c2145edc-6f98-40fb-ad16-3ed3eeddf706))
 
 
