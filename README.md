@@ -28,14 +28,14 @@ This project emphasizes data security, efficient performance, and a user-friendl
 
 ![mainPage](https://github.com/user-attachments/assets/c2145edc-6f98-40fb-ad16-3ed3eeddf706)
 
-### 🏠 **Login Page:**
+### **Login Page:**
 
 ![loginPage](https://github.com/user-attachments/assets/f20ea8bf-b55e-4f0e-8486-05146052ad47)
 
 
-📊 Core Functionalities:
+## 📊 **Core Functionalities**:
 
-User Module:
+**User Module**:
 
 https://github.com/user-attachments/assets/063ce20e-263c-4395-9c66-6545a55cef36
 
@@ -47,13 +47,13 @@ https://github.com/user-attachments/assets/063ce20e-263c-4395-9c66-6545a55cef36
 
 
 
-Driver Module:
+**Driver Module**:
 
 -View assigned trips and schedules.
 
 -Manage trip completion status.
 
-Admin Module:
+**Admin Module**:
 
 https://github.com/user-attachments/assets/43b5925a-44d3-49c5-88a8-acd628daf4fb
 
@@ -63,14 +63,40 @@ https://github.com/user-attachments/assets/43b5925a-44d3-49c5-88a8-acd628daf4fb
 
 -Ensure data consistency and access control.
 
+## 🏗️ **Technical Highlights**:
 
-📂 Project Status
+**Frontend**:
 
-Status: 
+-Built with React for dynamic user interaction.
+
+-Responsive design using Bootstrap 5 for better accessibility.
+
+**Backend**:
+
+-Developed using Spring Boot for scalability and RESTful APIs.
+
+-JWT Tokens for secure authentication.
+
+**Database**:
+
+-PostgreSQL for structured data storage.
+
+-Ensures data integrity through relationships between tables.
+
+**Deployment**:
+
+-Backend and frontend deployment-ready for production.
+
+-Scalable architecture for handling multiple users simultaneo
+
+
+## 📂 **Project Status**
+
+**Status**: 
 
 Completed : users and admin panel 
 
-Inprogress: driver panel , some part of admin panel
+Inprogress: driver panel , some part of admin panel , deployment
 
 
 Repository: Code not public. Available upon request.
